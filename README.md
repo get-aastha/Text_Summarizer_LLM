@@ -20,3 +20,5 @@ ii.    Libraries:
 3. Click on the url. You will be redirected to a local tunnel webpage asking you for a pass.
 4. In your colab file, when you run the second last block i.e **!wget -q -O - ipv4.icanhazip.com**, you would have gotten an ip address as output. Paste this ip adrress in the local tunnel website and hit Enter.
 5. Tadaaa!! Streamlit is now running and you can summarize your text/documents.
+
+![image](https://github.com/get-aastha/text_summarizer/assets/108509128/2d7b0730-09c3-49d9-9d20-8edddcd62401)
