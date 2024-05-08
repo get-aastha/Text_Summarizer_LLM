@@ -1,6 +1,6 @@
 ## News summarization using Python, OpenCV, Streamlit, and Txtai on the Google Colab platform.
 
-This project includes using Google Colab in collaboration with Streamlit to summarize text through file upload. Project report included.
+This project includes using Google Colab in collaboration with Streamlit to summarize text through file upload. **Project report included.**
 
 ## Software Specification
 
@@ -8,10 +8,10 @@ i.     Programming Language:
 Python (version 3.6 or later recommended)
 
 ii.    Libraries:
-•	txtai (v0.8.1 or later): For deploying your summarization model as an API.
-•	streamlit (v1.14 or later): For building the web application interface.
-•	transformers (v4.25 or later): Provides pre-trained models for text summarization tasks (if not using a custom model).
-•	opencv-python (v4.8.0 or later): For image processing tasks (if your project involves summarizing news articles with images).
+1. txtai (v0.8.1 or later): For deploying your summarization model as an API.
+2. streamlit (v1.14 or later): For building the web application interface.
+3. transformers (v4.25 or later): Provides pre-trained models for text summarization tasks (if not using a custom model).
+4. opencv-python (v4.8.0 or later): For image processing tasks (if your project involves summarizing news articles with images).
 
 ## Instructions
 
